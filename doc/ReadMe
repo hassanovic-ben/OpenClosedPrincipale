@@ -1,0 +1,4 @@
+Software components should be closed for modification, but open for extension
+
+How can something be open and closed at the same time ?
+

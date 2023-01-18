@@ -1,0 +1,10 @@
+The problem is :
+
+    In order to add new feature (new kind of insurance), we have to touch existing code, the existing code is supposed to be closed for modification
+    How can we fix this ?  please see the solution
+
+     Benefits are :
+
+     Ease of adding new features.
+     Leads to minimal cost of developing and testing software.
+
